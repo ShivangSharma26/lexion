@@ -15,3 +15,4 @@
 - 2026-06-20T19:19:34: Improve logging
 - 2026-06-20T19:33:27: Tweak hyperparams
 - 2026-06-20T19:39:19: Refactor code structure
+- 2026-06-20T19:40:58: Fix minor bugs
